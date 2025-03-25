@@ -76,7 +76,7 @@ const makeCommits = (n) => {
 
 displayUI(
   "🚀 Starting the automated commit process...\n" +
-    chalk.yellow("Project: LatestX-green\n") +
+    chalk.yellow("Project: hijau\n") +
     chalk.yellow("Version: 1.0.0"),
   "info"
 );
