@@ -1,5 +1,5 @@
 {
-  "name": "LatestX-green",
+  "name": "hijau",
   "version": "1.0.0",
   "description": "A project to automate Git commits with random dates.",
   "main": "index.js",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/latesturl/LatestX-green"
+    "url": "https://github.com/ALDY711/hijau"
   },
-  "homepage": "https://github.com/latesturl",
+  "homepage": "https://github.com/ALDY711",
   "bugs": {
-    "url": "https://github.com/latesturl/LatestX-green/issues"
+    "url": "https://github.com/ALDY711/hijau/issues"
   }
 }
